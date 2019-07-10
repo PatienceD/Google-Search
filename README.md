@@ -24,7 +24,7 @@ Backend:
 
     ~ Node.js
 
-    ~ MongoDB
+    ~ MongoDB (mongoose)
 
 
 Deployed on: Heroku
