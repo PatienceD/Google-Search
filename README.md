@@ -1,4 +1,36 @@
-This is the test read me
+# Google Search
+
+This is a Google Book Search React-based app. Users have the ability to search for books via the Google Books API, and save their favorite ones. The books that are "saved" will be stored within a Mongo database. Each book can be viewed by hitting the "view" button, and it will bring the user to the Google Book Store to read more about it. Also, each saved book can be deleted from the saved page, effectively removing it from the database. 
+
+
+Give it a try here: https://patienced.github.io/Google-Search/
+
+
+Technologies Used:
+
+Frontend:
+
+    ~ HTML
+
+    ~ CSS
+
+    ~ JavaScript
+
+    ~ Bootstrap
+
+Backend:
+
+    ~ React
+
+    ~ Node.js
+
+    ~ MongoDB
+
+
+Deployed on: Heroku
+
+
+
 
 
 
